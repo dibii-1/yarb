@@ -56,7 +56,7 @@
         "dingtalk": {
             "enabled": true,
             "secrets": "DINGTALK_KEY",
-            "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+            "key": "4e94a3dc93584bbc69a45782153a33a58497c5912d19b8201850a82bd1fc4121"
         },
         "qq": {
             "enabled": false,
